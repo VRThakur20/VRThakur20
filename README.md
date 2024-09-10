@@ -12,8 +12,7 @@ I'm currently working on an Admin Panel API<br>I'm currently learning PHP, and L
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VRThakur20&theme=swift&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VRThakur20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
