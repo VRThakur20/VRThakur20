@@ -10,7 +10,7 @@ I'm currently working on an Admin Panel API<br>I'm currently learning PHP, and L
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VRThakur20&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VRThakur20&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VRThakur20&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VRThakur20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
